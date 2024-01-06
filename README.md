@@ -48,13 +48,13 @@ These data points indicate that weather conditions and temperature significantly
 Python version 3.12.1
 Jupyter Notebook
 
-numpy==1.26.3
-matplotlib==3.8.2
-pandas==2.1.4
-scikit-learn==1.3.2
-scipy==1.11.4
-seaborn==0.13.1
-statsmodels==0.14.1
+- numpy==1.26.3
+- matplotlib==3.8.2
+- pandas==2.1.4
+- scikit-learn==1.3.2
+- scipy==1.11.4
+- seaborn==0.13.1
+- statsmodels==0.14.1
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
