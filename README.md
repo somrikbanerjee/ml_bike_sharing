@@ -45,8 +45,8 @@ These data points indicate that weather conditions and temperature significantly
 
 
 ## Technologies Used
-Python version 3.12.1
-Jupyter Notebook
+Python version 3.12.1 <br/>
+Jupyter Notebook<br/>
 
 - numpy==1.26.3
 - matplotlib==3.8.2
